@@ -1,21 +1,13 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 '''
-Raspberry
-    _ __
-   | '  \
-   | .-. \        /|
-   | | | |      ,' |_   /|
-   | |_| |   _ '-. .-',' |_   _
-   |     | ,'_`. | | '-. .-',' `. ,'\_
-  .| |\_/ | / \ || |   | | / |\  \|   \
-  |  |    | | | || |   | | | |_\ || |\_|
-  | |`    | | | || |   | | | .---'| |
-  | |     | \_/ || |   | | | |  /\| |
- .||`      `._,' | |   | | \ `-' /| |
- \ |              `.\  | |  `._,' /_\
-  \|                   `.\
-
+  _\
+  \
+O O-O
+ O O
+  O
+  
+Raspberry Potter
 Version 0.1
 
 Use your interactive Harry Potter wands to control the IoT.  
