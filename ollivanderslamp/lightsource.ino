@@ -66,14 +66,14 @@ Remember this particularly if there are things you DON'T want to run a lot. Like
 void loop() {   
     if (analogRead(incendioPin)>4000) {
         state = 2;
-    }    
+    }
     if (analogRead(lumosPin)>4000) {
         state = 1;
     }
     if (analogRead(noxPin)>4000) {
         state = 0;
     }    
-    // Let's turn an LED on. How about #6, which is at the 6 o'clock position? Let's make it blue and bright.
+    // Let's turn the LEDs on.
     if (state == 0) {
         nox();
     }
