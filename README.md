@@ -11,3 +11,6 @@ You'll need:
 - Things you want to control
 
 Fan made and supported - not affiliated with Universal Studios.  Be sure to watch this repo for more info!  Feedback and help appreciated!  I'll be posting with updates including how to make your own IR reflective wands.  
+
+Home base for the project is at https://www.raspberrypotter.net/
+
